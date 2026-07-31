@@ -1,9 +1,10 @@
 ### FALA GALERA! 👋
 
 
-Nome: Gustavo  
+Nome: ENZZO GABRIEL  
 Cursando: 2º Ano do ensino médio  
 Aprendendo: Manufatura Digital - SENAI  
+POKEMON favorito: Goodra
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=taletopz&show_icons=true&theme=dark)  
 
