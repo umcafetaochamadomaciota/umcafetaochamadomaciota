@@ -1,5 +1,6 @@
-### FALA GALERA! 👋
+8### FALA GALERA! 👋
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p2gg6oy67n7tuenxsk5d545gdu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=0000ff)](https://github.com/kittinan/spotify-github-profile)
 
 Nome: ENZZO GABRIEL  
 Cursando: 2º Ano do ensino médio  
